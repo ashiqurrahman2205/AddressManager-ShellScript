@@ -1,0 +1,19 @@
+Thu Dec 26 09:03:58 PM IST 2024 - User Entered the application
+Thu Dec 26 09:04:39 PM IST 2024 - Added new entry: Koushik,koushik@gmail.com,86388739,+91 6746846929,"Kk Nagar","Hi I'm koushik",Thu Dec 26 09:04:39 PM IST 2024
+Thu Dec 26 09:05:24 PM IST 2024 - Added new entry: Pravin,pravin@gmail.com,873767368,+91 8954792902,"Kovilpatti","Hello How are ou",Thu Dec 26 09:05:24 PM IST 2024
+Thu Dec 26 09:05:52 PM IST 2024 - User timed out while adding Email.
+Thu Dec 26 09:06:00 PM IST 2024 - Deleted entry for editing: Pravin,pravin@gmail.com,873767368,+91 8954792902,"Kovilpatti","Hello How are ou",Thu Dec 26 09:05:24 PM IST 2024
+Thu Dec 26 09:06:25 PM IST 2024 - Invalid Email input: 1
+Thu Dec 26 09:06:56 PM IST 2024 - Added new entry: Pravin,pravin@gmail.com,76378338,+91 8926828026,"Kovilpatti","Hello Guys!!",Thu Dec 26 09:06:56 PM IST 2024
+Thu Dec 26 09:07:06 PM IST 2024 - User exited the application
+Thu Dec 26 09:48:54 PM IST 2024 - User Entered the application
+Thu Dec 26 09:49:37 PM IST 2024 - Added new entry: Prajen S K,prajen@yahoo.com,87483937,+91 9864562712,"Royapettah","Hello Bro",Thu Dec 26 09:49:37 PM IST 2024
+Thu Dec 26 09:49:46 PM IST 2024 - User exited the application
+Thu Dec 26 09:55:06 PM IST 2024 - User Entered the application
+Thu Dec 26 09:57:06 PM IST 2024 - User Entered the application
+Thu Dec 26 09:57:21 PM IST 2024 - Invalid Name input: R1
+Thu Dec 26 09:57:44 PM IST 2024 - User Timed-out while Entering Name
+Thu Dec 26 09:58:28 PM IST 2024 - Added new entry: Sid,sid@gmail.com,45372257,+91 9638264921,"Mumbai","Wake up sid !!!",Thu Dec 26 09:58:28 PM IST 2024
+Thu Dec 26 09:58:45 PM IST 2024 - Deleted entry for editing: Sid,sid@gmail.com,45372257,+91 9638264921,"Mumbai","Wake up sid !!!",Thu Dec 26 09:58:28 PM IST 2024
+Thu Dec 26 09:59:30 PM IST 2024 - Added new entry: Siddarth,sid@gmail.com,45372257,+91 9638264921,"Mumbai","Wake up Sidd!",Thu Dec 26 09:59:30 PM IST 2024
+Thu Dec 26 09:59:42 PM IST 2024 - User exited the application
